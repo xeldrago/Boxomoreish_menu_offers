@@ -1,0 +1,21 @@
+.btn-gradS {background-image: linear-gradient(to right, #56CCF2 0%, #2F80ED  51%, #56CCF2  100%)}
+.btn-gradS {
+    margin: 10px;
+    padding: 5px 5px;
+    text-align: left;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: -ms-inline-grid;
+}
+.bodys {
+  background-image: url('media/images/gradientB.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  
+  
+}
